@@ -2,6 +2,8 @@ from urllib import request
 import time
 import datetime
 import numpy as np
+
+
 gesamteZeit=0
 data=[]
 zeitanfang=time.time()
